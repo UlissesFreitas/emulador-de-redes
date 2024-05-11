@@ -1,0 +1,24 @@
+## OBS : IPS São Aleatorios!
+
+Dipositivo h1 ja conectado.
+--- Resumo dos Dispositivos ---
+name:h1 ip:79.94.139.8 Port:1 brand:Samsung
+-------------------------------
+Erro ao encontrar a porta, Tente Novamente!
+--- Resumo dos Dispositivos ---
+name:h1 ip:79.94.139.8 Port:1 brand:Samsung
+name:h2 ip:129.105.186.235 Port:12 brand:LeNOVO
+-------------------------------
+Não ha dispositivos nessa porta
+--- Resumo dos Dispositivos ---
+name:h1 ip:79.94.139.8 Port:1 brand:Samsung
+name:h2 ip:129.105.186.235 Port:12 brand:LeNOVO
+-------------------------------
+Erro ao encontrar a porta, Tente Novamente!
+--- Resumo dos Dispositivos ---
+name:h1 ip:79.94.139.8 Port:1 brand:Samsung
+name:h3 ip:61.219.208.19 Port:2 brand:Dell
+name:h4 ip:215.106.63.112 Port:3 brand:ASUS
+name:h5 ip:232.144.162.126 Port:8 brand:Apple
+name:h2 ip:129.105.186.235 Port:12 brand:LeNOVO
+-------------------------------
